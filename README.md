@@ -1,5 +1,5 @@
 README.md
-University Data Scraper & API: An In-Depth Look
+CollegeAlgorithm: An In-Depth Look
 This project is a back-end application built with Node.js to demonstrate a practical data collection workflow. Its core purpose is to list the best universities for the user based on preffered academic criteria. This criteria is systematically scraped and stored in a structured, local SQLite database. This README provides a detailed breakdown of the application's inner workings, from its modular design to its data handling pipeline.
 
 💡 Core Purpose
